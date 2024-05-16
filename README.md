@@ -1,6 +1,3 @@
-### Hi there 👋
-
-## About Me
 
 I'm a passionate Java developer with a love for clean code and elegant solutions. I enjoy working on challenging projects and constantly expanding my knowledge in software development.
 
@@ -23,8 +20,7 @@ I'm a passionate Java developer with a love for clean code and elegant solutions
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=6angel6&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=6angel6&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="200" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-796.gif"  />
 </div>
 
 ###
