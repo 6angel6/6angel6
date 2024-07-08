@@ -29,6 +29,3 @@ I'm a passionate Java and Go developer with a love for clean code and elegant so
 
 ###
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=M24GiVteC0M
-" target="_blank"><img src="http://img.youtube.com/vi/M24GiVteC0M/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
