@@ -1,6 +1,6 @@
 ## About me
 
-I'm a passionate Java developer with a love for clean code and elegant solutions. I enjoy working on challenging projects and constantly expanding my knowledge in software development.
+I'm a passionate Java and Go developer with a love for clean code and elegant solutions. I enjoy working on challenging projects and constantly expanding my knowledge in software development.
 
 ## Skills
 
@@ -16,6 +16,7 @@ I'm a passionate Java developer with a love for clean code and elegant solutions
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 </div>
 
